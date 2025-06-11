@@ -17,7 +17,7 @@ export const Hero = () => {
         </div>
 
         <p className={styles.description}>
-          Hi there! I'm Nawanka Thathsara, a software engineer passionate about coding, exploring new technologies, and solving problems. I’m dedicated to making a positive impact on the world by sharing my knowledge and contributing to meaningful projects.
+          Hi there! I'm Nawanka Thathsara, a software Engineer passionate about coding, exploring new technologies, and solving problems. I’m dedicated to making a positive impact on the world by sharing my knowledge and contributing to meaningful projects.
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
